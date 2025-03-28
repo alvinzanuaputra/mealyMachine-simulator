@@ -43,7 +43,7 @@ python mealy_simulator.py
 ---
 
 ## Format Input (JSON)
-File **`dfa_config.json`** berisi contoh konfigurasi DFA.
+File **`mealy_machine.json`** 
 ```json
 {
     "states": [
